@@ -46,6 +46,6 @@ The script checks the weekday labels in the CSV against the generated dates. If 
 
 ## Notes
 
-- Name matching is forgiving. For example, entering `Wong` can match a `LUNA WONG` column if it is the only matching fellow column.
+- Name matching is forgiving. For example, entering `Rivera` can match a `MAYA RIVERA` column if it is the only matching fellow column.
 - The script handles common CSV encodings exported by Excel, including UTF-8, Windows-1252, Mac Roman, and Latin-1.
 - The trailing blank row sometimes produced by spreadsheet exports is ignored.
