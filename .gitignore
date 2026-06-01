@@ -1,0 +1,4 @@
+*_google_calendar.csv
+*.ics
+.DS_Store
+__pycache__/
